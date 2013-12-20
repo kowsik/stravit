@@ -1,0 +1,14 @@
+{
+  "name": "stravit",
+  "version": "0.0.1",
+  "description": "Analyze Strava's data to generate summaries of runs",
+  "author": {
+    "name": "kowsik",
+    "url": "http://freeradical.me/"
+  },
+  "dependencies": {
+    "colors": "0.6.2",
+    "sprintf-js": "0.0.7",
+    "underscore": "1.5.2"
+  }
+}
