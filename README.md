@@ -9,6 +9,7 @@ developer console. Here's the
 
 Here's a sample output:
 
+    $ ./stravit.js /tmp/pg.json
           total distance: 9.72 miles
          total distance2: 9.72 miles
            min_elevation: 339.24ft
