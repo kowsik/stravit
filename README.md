@@ -34,4 +34,7 @@ Here's a sample output:
 
 A segment is either a point or a span of multiple points that have the same
 altitude. In the mile-by-mile table, each number is the elevation gain/loss in
-feet.
+feet. Here are a bunch of other ideas that I haven't gotten around to yet:
+
+- [ ] count number of *hills* that involve an ascent/descent of over 250ft
+- [ ] compute the grade of each hill and look for hot spots
